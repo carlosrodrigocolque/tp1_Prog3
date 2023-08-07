@@ -1,0 +1,13 @@
+C:\Users\rodri\Documents\CARLOS\UTN_2\Porg_3\Proyectos_C#\tp1\solucionTrabajoPractico_1\trabajoPractico_1\bin\Debug\trabajoPractico_1.exe.config
+C:\Users\rodri\Documents\CARLOS\UTN_2\Porg_3\Proyectos_C#\tp1\solucionTrabajoPractico_1\trabajoPractico_1\bin\Debug\trabajoPractico_1.exe
+C:\Users\rodri\Documents\CARLOS\UTN_2\Porg_3\Proyectos_C#\tp1\solucionTrabajoPractico_1\trabajoPractico_1\bin\Debug\trabajoPractico_1.pdb
+C:\Users\rodri\Documents\CARLOS\UTN_2\Porg_3\Proyectos_C#\tp1\solucionTrabajoPractico_1\trabajoPractico_1\obj\Debug\trabajoPractico_1.csproj.AssemblyReference.cache
+C:\Users\rodri\Documents\CARLOS\UTN_2\Porg_3\Proyectos_C#\tp1\solucionTrabajoPractico_1\trabajoPractico_1\obj\Debug\trabajoPractico_1.FormPrincipal.resources
+C:\Users\rodri\Documents\CARLOS\UTN_2\Porg_3\Proyectos_C#\tp1\solucionTrabajoPractico_1\trabajoPractico_1\obj\Debug\trabajoPractico_1.Properties.Resources.resources
+C:\Users\rodri\Documents\CARLOS\UTN_2\Porg_3\Proyectos_C#\tp1\solucionTrabajoPractico_1\trabajoPractico_1\obj\Debug\trabajoPractico_1.csproj.GenerateResource.cache
+C:\Users\rodri\Documents\CARLOS\UTN_2\Porg_3\Proyectos_C#\tp1\solucionTrabajoPractico_1\trabajoPractico_1\obj\Debug\trabajoPractico_1.csproj.CoreCompileInputs.cache
+C:\Users\rodri\Documents\CARLOS\UTN_2\Porg_3\Proyectos_C#\tp1\solucionTrabajoPractico_1\trabajoPractico_1\obj\Debug\trabajoPractico_1.exe
+C:\Users\rodri\Documents\CARLOS\UTN_2\Porg_3\Proyectos_C#\tp1\solucionTrabajoPractico_1\trabajoPractico_1\obj\Debug\trabajoPractico_1.pdb
+C:\Users\rodri\Documents\CARLOS\UTN_2\Porg_3\Proyectos_C#\tp1\solucionTrabajoPractico_1\trabajoPractico_1\obj\Debug\trabajoPractico_1.formEj1.resources
+C:\Users\rodri\Documents\CARLOS\UTN_2\Porg_3\Proyectos_C#\tp1\solucionTrabajoPractico_1\trabajoPractico_1\obj\Debug\trabajoPractico_1.formEj2.resources
+C:\Users\rodri\Documents\CARLOS\UTN_2\Porg_3\Proyectos_C#\tp1\solucionTrabajoPractico_1\trabajoPractico_1\obj\Debug\trabajoPractico_1.formEj3.resources
